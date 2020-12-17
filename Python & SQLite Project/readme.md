@@ -1,5 +1,5 @@
 
-<img src="images\1.png" width="100px" height="auto">
+<img src="images\1.png" width="200px" height="auto">
 
 
 # Main script

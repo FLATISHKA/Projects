@@ -1,7 +1,6 @@
 # Description
-Simple task manegment program, that was made with Python and SQLite3 languages,
-you can singup and login 
-to your account and add some tasks. Every account and 
+Simple task manegment program, that was made with Python and SQLite3,
+you can singup and login to your account and add some tasks. Every account and 
 tasks are connected with id, so other accounts cant see your tasks 
 # Images
 

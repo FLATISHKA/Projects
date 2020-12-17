@@ -10,9 +10,8 @@ tasks are connected with id, so other accounts cant see your tasks
 <img src="images\2.png" width="300px" height="auto">
 
 <img src="images\3.png" width="300px" height="auto">
+
 ### If username wasnt taken it will show "Account created"
-
-
 <img src="images\4.png" width="300px" height="auto">
 
 <img src="images\5.png" width="300px" height="auto">

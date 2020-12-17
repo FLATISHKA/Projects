@@ -9,20 +9,28 @@ tasks are connected with id, so other accounts cant see your tasks
 
 <img src="images\2.png" width="300px" height="auto">
 
+## SignUp Form.
 <img src="images\3.png" width="300px" height="auto">
 
-## If username wasnt taken it will show "Account created"
+## If username wasnt taken it will show "Account created".
 <img src="images\4.png" width="300px" height="auto">
 
+## If username was already taken it will show "Account already exist".
 <img src="images\5.png" width="300px" height="auto">
 
+## LogIn Form
 <img src="images\6.png" width="300px" height="auto">
 
+## If the username and password are correct it will show "Your are in!" and open Task window.
 <img src="images\7.png" width="300px" height="auto">
 
+## If username is not correct it will show "The account does not exist" 
 <img src="images\8.png" width="600px" height="auto">
 
+## Task window
 <img src="images\9.png" width="600px" height="auto">
+
+## You can add, remove and update tasks. After you typed something in Task and Text entry press "Add Task", if Task or Text entry is clear it will show error. If you want to update or delete task just press on the task from list and then press "Update task" or "Remove Task"
 
 
 ## Main script

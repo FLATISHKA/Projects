@@ -2,7 +2,7 @@
 Simple task manegment program, that was made with Python and SQLite3 languages,
 you can singup and login 
 to your account and add some tasks. Every account and 
-tasks are connected with id so other accounts cant see your tasks 
+tasks are connected with id, so other accounts cant see your tasks 
 # Images
 
 <img src="images\1.png" width="300px" height="auto">
@@ -11,6 +11,7 @@ tasks are connected with id so other accounts cant see your tasks
 
 <img src="images\3.png" width="300px" height="auto">
 If username wasnt taken it will show "Account created"
+
 
 <img src="images\4.png" width="300px" height="auto">
 

@@ -1,4 +1,6 @@
-❮img src="images/1.png" width="100"❯
+#images
+
+<img src="https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="800px" height="auto">
 # Main script
 ```python
 # Importing libraries

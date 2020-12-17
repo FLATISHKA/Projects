@@ -1,6 +1,5 @@
-❮img src="images\1.png" ❯
 
-
+<img src="images\1.png" width="100px" height="auto">
 # Main script
 ```python
 # Importing libraries

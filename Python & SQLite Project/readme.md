@@ -30,7 +30,7 @@ tasks are connected with id, so other accounts cant see your tasks
 ## Task window
 <img src="images\9.png" width="600px" height="auto">
 
-## You can add, remove and update tasks. After you typed something in Task and Text entry press "Add Task", if Task or Text entry is clear it will show error. If you want to update or delete task just press on the task from list and then press "Update task" or "Remove Task"
+## You can add, remove and update tasks. After you typed something in Task and Text entry, press "Add Task", if Task or Text entry is clear it will show error. If you want to update or delete task, just press on the task from list, and then press "Update task" or "Remove Task"
 
 
 ## Main script

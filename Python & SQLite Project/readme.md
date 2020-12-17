@@ -1,6 +1,6 @@
 #images
 
-<img src="images\1.png" width="800px" height="auto">
+
 # Main script
 ```python
 # Importing libraries
